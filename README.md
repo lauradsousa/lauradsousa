@@ -18,8 +18,7 @@
 <h3 align="left">Get to know more of me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lauradutrapro08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]
-(www.linkedin.com/in/laura-dutra-05b4983a9)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/laura-dutra-05b4983a9)
 
 
 <h3 align="left">My Stack</h3>
@@ -53,9 +52,11 @@
 <p align="center">&nbsp
 
 #
-<picture align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauradsousa/lauradsousa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauradsousa/lauradsousa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/lauradsousa/lauradsousa/output/github-contribution-grid-snake.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauradsousa/lauradsousa/output/github-contribution-grid-snake.svg">
+  
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauradsousa/lauradsousa/output/github-contribution-grid-snake.svg">
 </picture>
