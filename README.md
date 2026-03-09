@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace+Code&weight=500&size=22&pause=1000&color=#FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Get+to+know+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=#FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Get+to+know+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -15,10 +15,11 @@
 #
 <img align="right" src="https://github.com/user-attachments/assets/f81e06cb-bd6b-4702-9067-012fabbbe925">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Get to know more of me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:manuelafariatrindade@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/manuelatrindade/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lauradutrapro08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]
+(www.linkedin.com/in/laura-dutra-05b4983a9)
 
 
 <h3 align="left">My Stack</h3>
