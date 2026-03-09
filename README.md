@@ -13,7 +13,6 @@
 <p align="center">• Currently studying JavaScript language 📊
 
 #
-<img align="right" src="https://github.com/user-attachments/assets/f81e06cb-bd6b-4702-9067-012fabbbe925">
 
 <h3 align="left">Get to know more of me!</h3>
 
