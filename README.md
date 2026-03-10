@@ -8,9 +8,9 @@
 
 #
 
-<p align="center">• Software Engineer student at Universidade Evangélica de Goiás 💻</p>
-<p align="center">• Focused in Front-End development 🖼️</p>
-<p align="center">• Currently studying JavaScript language 📊</p>
+• Software Engineer student at Universidade Evangélica de Goiás 💻
+• Focused in Front-End development 🖼️
+• Currently studying JavaScript language 📊
 
 #
 
